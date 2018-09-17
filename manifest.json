@@ -1,4 +1,6 @@
-﻿{
+//The meta file of this extension.
+
+{
 	"homepage_url": "http://www.zakelly.com/2016/02/20/get-class-helper-new-version/",
 	"content_security_policy": "script-src 'self'; object-src 'self';",
 	"content_scripts": [ {
