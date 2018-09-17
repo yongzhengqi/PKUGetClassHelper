@@ -47,7 +47,7 @@ function checkDate(){
 }
 
 function incNowTimes(){
-    nowTimes++;
+    nowTimes = 0;
     localStorage["gcht"] = nowTimes;
     return nowTimes;
 }
